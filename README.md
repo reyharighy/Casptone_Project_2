@@ -11,4 +11,4 @@ Beberapa teknik analisis statistik yang akan digunakan termasuk uji statistik, a
 Untuk menggunakan proyek ini, dataset dapat diunduh pada [tautan berikut](https://drive.google.com/drive/folders/1uw9ptpZpbd3RHc77j-qeELPbcdwaniS4). Selanjutnya, unduh file '`Explanatory Data.ipynb`' dari repo ini. Tempatkan dataset dan file Jupyter Notebook pada satu folder yang sama dan jalankan file '`Explanatory Data.ipynb`'.
 
 ### Lisensi
-Proyek ini berada di bawah lisensi dari Purwadhika Digital Technology School untuk program Job Connector Data Science and Machine Learning.
+Proyek ini merupakan tugas Casptone Project Modul 2 - Data Analisis dari Purwadhika Digital Technology School untuk program Job Connector Data Science and Machine Learning.
