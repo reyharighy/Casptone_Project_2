@@ -26,7 +26,7 @@ This dataset is provided as material for working on the topic of Trending Video 
 ## Data Preparation
 This section will focus on the process of transforming raw data into ready-to-use data. All of these processes will be examined in each column and, if necessary, delete unnecessary columns or, conversely, add new columns to enrich the insights needed in the Explanaroty Data Analysis section. Find the detailed process in [Data Preparation](Data_Preparation.ipynb).
 
-## Explanaroty Data Analysis
+## Explanatory Data Analysis
 In this section, data will be examined, transformed, and also modeled to identify patterns, trends, and information useful in making decisions.
 
 
