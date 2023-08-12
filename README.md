@@ -19,7 +19,7 @@ In the context determined in background previously, it includes:
 The hypothesis being tested is the anti-thesis of the problem background. Everything about the data has no significant intercorrelation and even if there is it is just coincidence.
 
 ## Data Understanding
-This dataset is provided as material for working on the topic of Trending Video Statistics on YouTube specifically for the United States region. In the early stages, the information contained will be described in more depth to understand its characteristics. As material for analysis, the datasets used are sourced from following [link](https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1), for each row the data contained consists of 16 columns, each of which contains information as follows:
+This dataset is provided as material for working on the topic of Trending Video Statistics on YouTube specifically for the United States region. In the early stages, the information contained will be described in more depth to understand its characteristics. As material for analysis, the datasets used are sourced from [following link](https://drive.google.com/drive/folders/1JFhDSfs4vzWuCdsBFObEp5sVLQMo-dR1), for each row the data contained consists of 16 columns, each of which contains information as follows:
 
 | Column | Description |
 | --- | ---  |
@@ -40,6 +40,7 @@ This dataset is provided as material for working on the topic of Trending Video 
 | `video_error_or_removed` | a condition where the related video cannot be played back |
 | `description` | a description of specific information from the linked video |
 
+Find the detailed process in [Data_Understanding](Data_Understanding.ipynb)
 
 
 ### Bahasa Pemrogaman
