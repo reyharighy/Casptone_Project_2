@@ -23,22 +23,22 @@ This dataset is provided as material for working on the topic of Trending Video 
 
 | Column | Description |
 | --- | ---  |
-| '`video_id`' | *unique identifier* for each video on **YouTube** |
-| '`trending_date`' | the date when the related video was popular |
-| '`title`' | the title name of the related video that is *mandatory* |
-| '`channel_title`'| the name of the channel where the related video originates or is collected |
-| '`category_id`'| related video categorizations listed are in the form of numbers but are nominal in nature |
-| '`publish_time`'| the date when the associated video was released |
-| '`tags`'| words or phrases used as the context of the associated video |
-| '`views`'| the number of users who played the associated video |
-| '`likes`'| the number of users who gave positive *feedback* by pressing the *likes* button |
-| ''`dislikes`'| the number of users who gave negative *feedback* by pressing the *dislikes* button |
-| '`comment_count`'| the number of comments left by users regarding the associated video |
-| '`thumbnail_link`'| image link that represents the related video to entice potential viewers to play the video |
-| '`comments_disabled`'| a feature that can be used by video owners so that viewers cannot comment on related videos |
-| '`ratings_disabled`'| a feature used by video owners so that viewers cannot give any *feedback*, such as *likes* and *dislikes* |
-| '`video_error_or_removed`'| a condition where the related video cannot be played back |
-| ''`description`'| a description of specific information from the linked video |
+| `video_id` | *unique identifier* for each video on **YouTube** |
+| `trending_date` | the date when the related video was popular |
+| `title` | the title name of the related video that is *mandatory* |
+| `channel_title` | the name of the channel where the related video originates or is collected |
+| `category_id` | related video categorizations listed are in the form of numbers but are nominal in nature |
+| `publish_time` | the date when the associated video was released |
+| `tags` | words or phrases used as the context of the associated video |
+| `views` | the number of users who played the associated video |
+| `likes` | the number of users who gave positive *feedback* by pressing the *likes* button |
+| `dislikes` | the number of users who gave negative *feedback* by pressing the *dislikes* button |
+| `comment_count` | the number of comments left by users regarding the associated video |
+| `thumbnail_link` | image link that represents the related video to entice potential viewers to play the video |
+| `comments_disabled` | a feature that can be used by video owners so that viewers cannot comment on related videos |
+| `ratings_disabled` | a feature used by video owners so that viewers cannot give any *feedback*, such as *likes* and *dislikes* |
+| `video_error_or_removed` | a condition where the related video cannot be played back |
+| `description` | a description of specific information from the linked video |
 
 
 
