@@ -1,4 +1,6 @@
-# Analisis Statistik Video Trending di YouTube
+# Statistical Analysis on Youtube Trending Video
+![Project Logo](banner-porto-3.png)
+
 Proyek analisis data yang bertujuan untuk memahami tren video yang populer di YouTube. Dalam proyek ini, akan digunakan bahasa pemrograman Python untuk melakukan praproses data dan pembersihan data, serta menerapkan teknik analisis statistik untuk mengeksplorasi data. Hasil analisis akan digunakan untuk membangun model prediksi untuk mengidentifikasi video yang akan populer di masa depan. Selain itu, proyek ini juga dapat memberikan wawasan tentang preferensi pengguna YouTube dan perilaku konsumen dalam lingkungan digital.
 
 ### Bahasa Pemrogaman
