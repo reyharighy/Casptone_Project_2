@@ -6,6 +6,7 @@ The background of the problem is very important to know because it will make it 
 
 ## Table of Contents
 - [Problem Statements](#problem-statements)
+- [Analysis Method](#analysis-method)
 - [Data Understanding](#data-understanding)
 - [Data Preparation](#data-preparation)
 - [Explanatory Data Analysis](#explanatory-data-analysis)
@@ -20,6 +21,9 @@ In the context determined in background previously, it includes:
 
 The hypothesis being tested is the anti-thesis of the problem background. Everything about the data has no significant intercorrelation and even if there is it is just coincidence.
 
+## Analysis Method
+Some of the statistical analysis techniques that will be used include statistical tests, factor analysis, and correlation analysis. In addition, data visualization techniques will also be used to facilitate understanding of patterns and trends within the dataset.
+
 ## Data Understanding
 This dataset is provided as material for working on the topic of Trending Video Statistics on YouTube specifically for the United States region. In the early stages, the information contained will be described in more depth to understand its characteristics. As material for analysis, the datasets used are sourced from [following link](Datasets.zip). Find the detailed process in [Data Understanding](Data_Understanding.ipynb).
 
@@ -29,15 +33,6 @@ This section will focus on the process of transforming raw data into ready-to-us
 ## Explanatory Data Analysis
 In this section, data will be examined, transformed, and also modeled to identify patterns, trends, and information useful in making decisions.
 
+---
 
-### Bahasa Pemrogaman
-Proyek ini dibuat menggunakan bahasa pemrograman Python dan framework Jupyter Notebook, dengan penggunaan library pandas, matplotlib, seaborn, dan plotly untuk analisis data dan visualisasi, serta beberapa library tambahan untuk membantu praproses data. Sebagai tambahan, visualisasi data dan presentasi proyek dapat diunduh pada link berikut: [Dashboard](https://public.tableau.com/app/profile/muhammad.reyhan.arighy/viz/Tableau-USvideos-Capstone2/Dashboard?publish=yes) dan [Presentasi](https://www.youtube.com/watch?v=MDm8X7vweHs&t=18s).
-
-### Metode Analisis
-Beberapa teknik analisis statistik yang akan digunakan termasuk uji statistik, analisis faktor, dan analisis korelasi. Selain itu, akan digunakan juga teknik visualisasi data untuk memudahkan pemahaman tentang pola dan tren dalam dataset.
-
-### Cara Penggunaan
-Untuk menggunakan proyek ini, dataset dapat diunduh pada [tautan berikut](https://drive.google.com/drive/folders/1uw9ptpZpbd3RHc77j-qeELPbcdwaniS4). Selanjutnya, unduh file '`Explanatory Data.ipynb`' dari repo ini. Tempatkan dataset dan file Jupyter Notebook pada satu folder yang sama dan jalankan file '`Explanatory Data.ipynb`'.
-
-### Lisensi
-Proyek ini merupakan tugas Casptone Project Modul 2 - Data Analisis dari Purwadhika Digital Technology School untuk program Job Connector Data Science and Machine Learning.
+For questions or collaborations, please contact through [email](mailto:arighymoch@gmail.com).
