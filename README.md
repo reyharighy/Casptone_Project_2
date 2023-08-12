@@ -35,4 +35,4 @@ In this section, data will be examined, transformed, and also modeled to identif
 
 ---
 
-For questions or collaborations, please contact through [email](mailto:arighymoch@gmail.com).
+For questions or collaborations, please contact me through [email](mailto:arighymoch@gmail.com).
