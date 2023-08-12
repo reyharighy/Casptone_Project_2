@@ -1,5 +1,5 @@
 # Statistical Analysis on Youtube Trending Video
-![Project Logo](banner-porto-3.png)
+![Project Logo](banner.png)
 
 ##  Background
 The background of the problem is very important to know because it will make it easier to identify the source of the problem and determine the right solution. Background information on the problem can be used as a basis for evaluating data and making wise decisions in dealing with the problem at hand.
