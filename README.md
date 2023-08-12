@@ -8,6 +8,7 @@ The background of the problem is very important to know because it will make it 
 - [Problem Statements](#problem-statements)
 - [Data Understanding](#data-understanding)
 - [Data Preparation](#data-preparation)
+- [Explanatory Data Analysis](#explanatory-data-analysis)
 
 ## Problem Statements
 In the context determined in background previously, it includes:
@@ -44,9 +45,9 @@ This dataset is provided as material for working on the topic of Trending Video 
 Find the detailed process in [Data Understanding](Data_Understanding.ipynb).
 
 ## Data Preparation
+This section will focus on the process of transforming raw data into ready-to-use data. All of these processes will be examined in each column and, if necessary, delete unnecessary columns or, conversely, add new columns to enrich the insights needed in the Explanaroty Data Analysis section. Find the detailed process in [Data Preparation](Data_Preparation.ipynb).
 
-
-
+## Explanaroty Data Analysis
 
 
 ### Bahasa Pemrogaman
