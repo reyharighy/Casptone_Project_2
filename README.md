@@ -7,6 +7,7 @@ The background of the problem is very important to know because it will make it 
 ## Table of Contents
 - [Problem Statements](#problem-statements)
 - [Data Understanding](#data-understanding)
+- [Data Preparation](#data-preparation)
 
 ## Problem Statements
 In the context determined in background previously, it includes:
@@ -40,7 +41,12 @@ This dataset is provided as material for working on the topic of Trending Video 
 | `video_error_or_removed` | a condition where the related video cannot be played back |
 | `description` | a description of specific information from the linked video |
 
-Find the detailed process in [Data_Understanding](Data_Understanding.ipynb)
+Find the detailed process in [Data Understanding](Data_Understanding.ipynb).
+
+## Data Preparation
+
+
+
 
 
 ### Bahasa Pemrogaman
