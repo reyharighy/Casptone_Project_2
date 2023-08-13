@@ -35,4 +35,4 @@ In this section, data will be examined, transformed, and also modeled to identif
 
 ---
 
-For the article worth reading, I recommend you visit the project on [my website](https://reyharighy.github.io/my-website-portfolio/porto3.html). For questions or collaborations, please contact me through [email](mailto:arighymoch@gmail.com).
+For the article worth reading, I recommend you visit the project on [my website](https://reyharighy.github.io/my-simple-website/porto3.html). For questions or collaborations, please contact me through [email](mailto:arighymoch@gmail.com).
